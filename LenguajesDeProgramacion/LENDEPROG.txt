@@ -1,0 +1,22 @@
+Completar ficha del lenguaje asignado.
+    Propósito: general
+    Paradigma: Orientado a objetos
+    Fortalezas y debilidades:
+	Fortalezas: Lenguaje Simple, Lenguaje Orientado a Objetos, Aplicaciones Distribuidas, Interpretado y Compilado, Es Seguro.
+	Debilidades: Es su sintaxis, Está ES para la creación de aplicaciones multimedia o que impliquen funcionalidad mínimamente avanzada, No es tan rico en caracteristicas como LINQ o tipado anonimo, Su principal objetivo no es el rendimiento.
+    Implementación: Compilado, Interpretado.
+    Runtime / Maquina Virtual: JVM, JRE Version 8 Update 311
+    Plataformas soportadas: Win, Linux, Mac.
+    Usuarios notables: productos, empresas, usuarios generales.
+    Historia: Creado por Sun Microsystems en December 1990, 1er Release (JDK (Java Development Kit) 1.0 January 23, 1996), Ultimo release (Java SE 17 September 2021)
+    Estado: Activo.
+
+USOS:
+Controlador Maestro Mars Rover
+JavaFX Deep Space Trajectory Explorer
+NASA WorldWind
+JMARS y JMoon
+
+Búsqueda en Wikipedia
+Hadoop
+Minecraft
