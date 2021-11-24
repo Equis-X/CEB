@@ -3,3 +3,10 @@
 17. Persistencia Aditiva
 # Lenguajes De Programacion
 Todo lo que se necesita saber sobre java
+# Kata ISBN (TDD + API)
+Usando Pruebas Unitarias Automatizadas resuelva la Validación de un ISBN (formatos 10 y 13).
+Lenguaje de su preferencia
+Framework de pruebas unitarias de su preferencia
+Utilizar Github y Git
+Grabar video
+Entrega regular: Video  + URL Repositorio
