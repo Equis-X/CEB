@@ -1,0 +1,12 @@
+C:\Users\hguzm\Desktop\kata1\isbn\bin\Debug\net5.0\isbn.deps.json
+C:\Users\hguzm\Desktop\kata1\isbn\bin\Debug\net5.0\isbn.dll
+C:\Users\hguzm\Desktop\kata1\isbn\bin\Debug\net5.0\ref\isbn.dll
+C:\Users\hguzm\Desktop\kata1\isbn\bin\Debug\net5.0\isbn.pdb
+C:\Users\hguzm\Desktop\kata1\isbn\obj\Debug\net5.0\isbn.csproj.AssemblyReference.cache
+C:\Users\hguzm\Desktop\kata1\isbn\obj\Debug\net5.0\isbn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hguzm\Desktop\kata1\isbn\obj\Debug\net5.0\isbn.AssemblyInfoInputs.cache
+C:\Users\hguzm\Desktop\kata1\isbn\obj\Debug\net5.0\isbn.AssemblyInfo.cs
+C:\Users\hguzm\Desktop\kata1\isbn\obj\Debug\net5.0\isbn.csproj.CoreCompileInputs.cache
+C:\Users\hguzm\Desktop\kata1\isbn\obj\Debug\net5.0\isbn.dll
+C:\Users\hguzm\Desktop\kata1\isbn\obj\Debug\net5.0\ref\isbn.dll
+C:\Users\hguzm\Desktop\kata1\isbn\obj\Debug\net5.0\isbn.pdb
