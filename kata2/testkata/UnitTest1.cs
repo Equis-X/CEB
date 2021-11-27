@@ -11,19 +11,19 @@ namespace testkata
         public void TestMethod1()
         {
             string testcase = "9798586938978";
-            Assert.IsTrue(testcase.isbnc());
+            Assert.IsTrue(testcase.isbnc(),$"{testcase}");
         }
         [TestMethod]
         public void TestMethod2()
         {
             string testcase = "1-4842-6671-4";
-            Assert.IsFalse(testcase.isbnc());
+            Assert.IsFalse(testcase.isbnc(),$"{testcase}");
         }
         [TestMethod]
         public void TestMethod3()
         {
             string testcase = "1-4842-6671";
-            Assert.IsFalse(testcase.isbnc());
+            Assert.IsFalse(testcase.isbnc(),$"{testcase}");
         }
     }
 }
