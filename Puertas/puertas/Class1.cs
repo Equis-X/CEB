@@ -44,7 +44,7 @@
             }
         }
         public string Unlock(string k){
-            if (Locked == true || key == k)
+            if (Locked == true && key == k)
             {
                 Locked = false;
                 return "OK";
