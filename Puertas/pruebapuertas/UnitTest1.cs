@@ -8,7 +8,6 @@ namespace pruebapuertas
     {
         // Puerta universal
         Door testdoor = new Door();
-
         [TestMethod]
         public void TestMethod1()
         {
@@ -17,6 +16,7 @@ namespace pruebapuertas
         [TestMethod]
         public void TestMethod2()
         {
+            testdoor.Close();
             Assert.IsTrue((testdoor.Open() == "OK"), "Abre");
         }
         [TestMethod]
@@ -27,6 +27,7 @@ namespace pruebapuertas
         [TestMethod]
         public void TestMethod4()
         {
+            testdoor.CloseAndLock("llave1");
             Assert.IsTrue((testdoor.OpenAndUnlock("llave1") == "OK"), "Abre y desbloquea");
         }
     }
