@@ -1,0 +1,12 @@
+C:\Users\hguzm\MEGA\INTEC PROGRESS\10mo trimestre - ICS 2018\Tendencias\Puertas\puertas\bin\Debug\net5.0\puertas.deps.json
+C:\Users\hguzm\MEGA\INTEC PROGRESS\10mo trimestre - ICS 2018\Tendencias\Puertas\puertas\bin\Debug\net5.0\puertas.dll
+C:\Users\hguzm\MEGA\INTEC PROGRESS\10mo trimestre - ICS 2018\Tendencias\Puertas\puertas\bin\Debug\net5.0\ref\puertas.dll
+C:\Users\hguzm\MEGA\INTEC PROGRESS\10mo trimestre - ICS 2018\Tendencias\Puertas\puertas\bin\Debug\net5.0\puertas.pdb
+C:\Users\hguzm\MEGA\INTEC PROGRESS\10mo trimestre - ICS 2018\Tendencias\Puertas\puertas\obj\Debug\net5.0\puertas.csproj.AssemblyReference.cache
+C:\Users\hguzm\MEGA\INTEC PROGRESS\10mo trimestre - ICS 2018\Tendencias\Puertas\puertas\obj\Debug\net5.0\puertas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hguzm\MEGA\INTEC PROGRESS\10mo trimestre - ICS 2018\Tendencias\Puertas\puertas\obj\Debug\net5.0\puertas.AssemblyInfoInputs.cache
+C:\Users\hguzm\MEGA\INTEC PROGRESS\10mo trimestre - ICS 2018\Tendencias\Puertas\puertas\obj\Debug\net5.0\puertas.AssemblyInfo.cs
+C:\Users\hguzm\MEGA\INTEC PROGRESS\10mo trimestre - ICS 2018\Tendencias\Puertas\puertas\obj\Debug\net5.0\puertas.csproj.CoreCompileInputs.cache
+C:\Users\hguzm\MEGA\INTEC PROGRESS\10mo trimestre - ICS 2018\Tendencias\Puertas\puertas\obj\Debug\net5.0\puertas.dll
+C:\Users\hguzm\MEGA\INTEC PROGRESS\10mo trimestre - ICS 2018\Tendencias\Puertas\puertas\obj\Debug\net5.0\ref\puertas.dll
+C:\Users\hguzm\MEGA\INTEC PROGRESS\10mo trimestre - ICS 2018\Tendencias\Puertas\puertas\obj\Debug\net5.0\puertas.pdb
