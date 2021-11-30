@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hguzm\\Desktop\\kata2\\testkata\\testkata.csproj": {}
+    "C:\\Users\\hguzm\\MEGA\\INTEC PROGRESS\\10mo trimestre - ICS 2018\\Tendencias\\kata2\\testkata\\testkata.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hguzm\\Desktop\\kata2\\isbn\\isbn.csproj": {
+    "C:\\Users\\hguzm\\MEGA\\INTEC PROGRESS\\10mo trimestre - ICS 2018\\Tendencias\\kata2\\isbn\\isbn.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hguzm\\Desktop\\kata2\\isbn\\isbn.csproj",
+        "projectUniqueName": "C:\\Users\\hguzm\\MEGA\\INTEC PROGRESS\\10mo trimestre - ICS 2018\\Tendencias\\kata2\\isbn\\isbn.csproj",
         "projectName": "isbn",
-        "projectPath": "C:\\Users\\hguzm\\Desktop\\kata2\\isbn\\isbn.csproj",
+        "projectPath": "C:\\Users\\hguzm\\MEGA\\INTEC PROGRESS\\10mo trimestre - ICS 2018\\Tendencias\\kata2\\isbn\\isbn.csproj",
         "packagesPath": "C:\\Users\\hguzm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hguzm\\Desktop\\kata2\\isbn\\obj\\",
+        "outputPath": "C:\\Users\\hguzm\\MEGA\\INTEC PROGRESS\\10mo trimestre - ICS 2018\\Tendencias\\kata2\\isbn\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -61,14 +61,14 @@
         }
       }
     },
-    "C:\\Users\\hguzm\\Desktop\\kata2\\testkata\\testkata.csproj": {
+    "C:\\Users\\hguzm\\MEGA\\INTEC PROGRESS\\10mo trimestre - ICS 2018\\Tendencias\\kata2\\testkata\\testkata.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hguzm\\Desktop\\kata2\\testkata\\testkata.csproj",
+        "projectUniqueName": "C:\\Users\\hguzm\\MEGA\\INTEC PROGRESS\\10mo trimestre - ICS 2018\\Tendencias\\kata2\\testkata\\testkata.csproj",
         "projectName": "testkata",
-        "projectPath": "C:\\Users\\hguzm\\Desktop\\kata2\\testkata\\testkata.csproj",
+        "projectPath": "C:\\Users\\hguzm\\MEGA\\INTEC PROGRESS\\10mo trimestre - ICS 2018\\Tendencias\\kata2\\testkata\\testkata.csproj",
         "packagesPath": "C:\\Users\\hguzm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hguzm\\Desktop\\kata2\\testkata\\obj\\",
+        "outputPath": "C:\\Users\\hguzm\\MEGA\\INTEC PROGRESS\\10mo trimestre - ICS 2018\\Tendencias\\kata2\\testkata\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -88,8 +88,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\hguzm\\Desktop\\kata2\\isbn\\isbn.csproj": {
-                "projectPath": "C:\\Users\\hguzm\\Desktop\\kata2\\isbn\\isbn.csproj"
+              "C:\\Users\\hguzm\\MEGA\\INTEC PROGRESS\\10mo trimestre - ICS 2018\\Tendencias\\kata2\\isbn\\isbn.csproj": {
+                "projectPath": "C:\\Users\\hguzm\\MEGA\\INTEC PROGRESS\\10mo trimestre - ICS 2018\\Tendencias\\kata2\\isbn\\isbn.csproj"
               }
             }
           }

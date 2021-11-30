@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NboVA7TGdbDiP3zrDNtDIlZQ5qe/fab/Io7BdPJdkOYjaZCNC8Ph0TO4UaHXxkShhxDQEGfN8yLhaOvseC70HA==",
+  "dgSpecHash": "MwO3s3tLDjG2RSfYhSQIQ+K+ufpMXztI6EI8ZpqZo9SRHp41974vOv3ooUOqaN5DVhsLzr3XXjv8JQKVUjZLgQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hguzm\\Desktop\\kata2\\testkata\\testkata.csproj",
+  "projectFilePath": "C:\\Users\\hguzm\\MEGA\\INTEC PROGRESS\\10mo trimestre - ICS 2018\\Tendencias\\kata2\\testkata\\testkata.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hguzm\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\hguzm\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

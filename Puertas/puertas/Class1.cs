@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace puertas
+﻿namespace puertas
 {
     public class Door
     {

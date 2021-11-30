@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WYhBpBYeLw6G6tk5vyUojpPsRm4evfnCjkfifA4lJVD6LMDPN7aJFHaPyHgCeP7KxqOBHxNVa2FjLZ8lnuj6bQ==",
+  "dgSpecHash": "wZeNp5o2aC/aWLED7HXYMC2zxaBvaA1cTJm2sD39M/Dkao5AfxCxlSLrpoHMG4pcef8rBvtUUZtk+l4InpCIEg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hguzm\\MEGA\\INTEC PROGRESS\\10mo trimestre - ICS 2018\\Tendencias Notes\\pruebapuertas\\pruebapuertas.csproj",
+  "projectFilePath": "C:\\Users\\hguzm\\MEGA\\INTEC PROGRESS\\10mo trimestre - ICS 2018\\Tendencias\\Puertas\\pruebapuertas\\pruebapuertas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hguzm\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\hguzm\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

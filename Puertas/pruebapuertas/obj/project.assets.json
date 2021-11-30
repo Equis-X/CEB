@@ -1660,6 +1660,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "puertas/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/puertas.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/puertas.dll": {}
+        }
       }
     }
   },
@@ -6103,6 +6113,11 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "puertas/1.0.0": {
+      "type": "project",
+      "path": "../puertas/puertas.csproj",
+      "msbuildProject": "../puertas/puertas.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6110,7 +6125,8 @@
       "MSTest.TestAdapter >= 2.2.3",
       "MSTest.TestFramework >= 2.2.3",
       "Microsoft.NET.Test.Sdk >= 16.9.4",
-      "coverlet.collector >= 3.0.2"
+      "coverlet.collector >= 3.0.2",
+      "puertas >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -6120,11 +6136,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hguzm\\MEGA\\INTEC PROGRESS\\10mo trimestre - ICS 2018\\Tendencias Notes\\pruebapuertas\\pruebapuertas.csproj",
+      "projectUniqueName": "C:\\Users\\hguzm\\MEGA\\INTEC PROGRESS\\10mo trimestre - ICS 2018\\Tendencias\\Puertas\\pruebapuertas\\pruebapuertas.csproj",
       "projectName": "pruebapuertas",
-      "projectPath": "C:\\Users\\hguzm\\MEGA\\INTEC PROGRESS\\10mo trimestre - ICS 2018\\Tendencias Notes\\pruebapuertas\\pruebapuertas.csproj",
+      "projectPath": "C:\\Users\\hguzm\\MEGA\\INTEC PROGRESS\\10mo trimestre - ICS 2018\\Tendencias\\Puertas\\pruebapuertas\\pruebapuertas.csproj",
       "packagesPath": "C:\\Users\\hguzm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hguzm\\MEGA\\INTEC PROGRESS\\10mo trimestre - ICS 2018\\Tendencias Notes\\pruebapuertas\\obj\\",
+      "outputPath": "C:\\Users\\hguzm\\MEGA\\INTEC PROGRESS\\10mo trimestre - ICS 2018\\Tendencias\\Puertas\\pruebapuertas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6143,7 +6159,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\hguzm\\MEGA\\INTEC PROGRESS\\10mo trimestre - ICS 2018\\Tendencias\\Puertas\\puertas\\puertas.csproj": {
+              "projectPath": "C:\\Users\\hguzm\\MEGA\\INTEC PROGRESS\\10mo trimestre - ICS 2018\\Tendencias\\Puertas\\puertas\\puertas.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
