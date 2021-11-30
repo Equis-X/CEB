@@ -10,3 +10,6 @@ Framework de pruebas unitarias de su preferencia
 Utilizar Github y Git
 Grabar video
 Entrega regular: Video  + URL Repositorio
+# PUERTAS
+2do ejercicio de la kata.
+ver mas en doorsNdoors.md
