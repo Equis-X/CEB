@@ -10,7 +10,7 @@
             Locked = false;
         }
         public string Close(){
-            if (Locked == false || Opend == true)
+            if (Locked == false && Opend == true)
             {
                 Opend = false;
                 return "OK";
