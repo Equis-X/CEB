@@ -5,103 +5,113 @@
         private bool Opend {get;set;}
         private bool Locked {get;set;}
         private string key {get;set;}
+
+        // Constructors
         public Door(){
             Opend = true;
             Locked = false;
         }
-        public string Close(){
+
+        // Getters
+        public bool IsOpen(){
+            return Opend;
+        }
+        public bool IsClosed(){
+            return !Opend;
+        }
+        public bool IsLocked(){
+            return Locked;
+        }
+        public bool IsUnlocked(){
+            return !Locked;
+        }
+
+        // Basic Operations
+        public void Close(){
             if (Locked == false && Opend == true)
             {
                 Opend = false;
-                return "OK";
             }
             else
             {
-                return "ERROR";
+                throw new System.Exception("Cannot pass because it is: closed || locked");
             }
         }
-        public string Open(){
+        public void Open(){
             if (Locked == false && Opend == false)
             {
                 Opend = true;
-                return "OK";
             }
             else
             {
-                return "ERROR";
+                throw new System.Exception("Cannot pass because it is: open || locked");
             }
         }
-        public string Lock(string k){
+        public void Lock(string k){
             if (Locked == false)
             {
                 Locked = true;
                 key = k;
-                return "OK";
             }
             else
             {
-                return "ERROR";
+                throw new System.Exception("Cannot pass because it is: locked");
             }
         }
-        public string Unlock(string k){
+        public void Unlock(string k){
             if (Locked == true && key == k)
             {
                 Locked = false;
-                return "OK";
             }
             else
             {
-                return "ERROR";
+                throw new System.Exception("Cannot pass because it is: unlocked || Incorrect key");
             }
         }
 
         // COMPLEX
-        public string OpenAndUnlock(string k){
+        public void OpenAndUnlock(string k){
             if (Locked == true && Opend == false && key == k)
             {
                 this.Unlock(k);
                 this.Open();
-                return "OK";
             }
             else
             {
-                return "ERROR";
+                throw new System.Exception("Cannot pass because it is: Unlocked || Incorrect key || Open");
             }
         }
-        public string OpenAndLock(string k){
+        public void OpenAndLock(string k){
             if (Locked == false && Opend == false)
             {
                 this.Open();
                 this.Lock(k);
-                return "OK";
             }
             else
             {
-                return "ERROR";
+                throw new System.Exception("Cannot pass because it is: Locked || Open");
             }
         }
-        public string CloseAndUnlock(string k){
+        public void CloseAndUnlock(string k){
             if (Locked == true && Opend == true && key == k)
             {
                 this.Unlock(k);
                 this.Close();
-                return "OK";
             }
             else
             {
-                return "ERROR";
+                throw new System.Exception("Cannot pass because it is: Unlocked || Incorrect key || Closed");
             }
         }
-        public string CloseAndLock(string k){
+        public void CloseAndLock(string k){
             if (Locked == false && Opend == true)
             {
                 this.Close();
                 this.Lock(k);
-                return "OK";
             }
             else
             {
-                return "ERROR";
+                throw new System.Exception("Cannot pass because it is: Locked || Closed");
             }
         }
     }

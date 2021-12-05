@@ -11,24 +11,36 @@ namespace pruebapuertas
         [TestMethod]
         public void TestMethod1()
         {
-            Assert.IsTrue((testdoor.Close() == "OK"),"Cierra");
+            testdoor.Close();
+            Assert.IsTrue(testdoor.IsClosed());
         }
         [TestMethod]
         public void TestMethod2()
         {
             testdoor.Close();
-            Assert.IsTrue((testdoor.Open() == "OK"), "Abre");
+            testdoor.Open();    // Open door
+            Assert.IsTrue(testdoor.IsClosed());
+            // False because it is open
         }
         [TestMethod]
         public void TestMethod3()
         {
-            Assert.IsTrue((testdoor.CloseAndLock("llave1") == "OK"), "Cierra y bloquea");
+            testdoor.CloseAndLock("llave1");
+            Assert.IsTrue(testdoor.IsLocked());
         }
         [TestMethod]
         public void TestMethod4()
         {
             testdoor.CloseAndLock("llave1");
-            Assert.IsTrue((testdoor.OpenAndUnlock("llave1") == "OK"), "Abre y desbloquea");
+            testdoor.OpenAndUnlock("llave1");
+            Assert.IsTrue(testdoor.IsUnlocked());
+        }
+        public void TestMethod5()
+        {
+            testdoor.Close();
+            testdoor.Open();    // Open door
+            Assert.IsTrue(testdoor.IsOpen());
+            // False because it is open
         }
     }
 }
