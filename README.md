@@ -13,3 +13,12 @@ Entrega regular: Video  + URL Repositorio
 # PUERTAS
 2do ejercicio de la kata.
 ver mas en doorsNdoors.md
+# Kata Vectors and Angles
+La formula cos (thetha) = (u . v)/(||u|| ||v||) define el coseno del angulo entre dos vectores (u y v) como su "dot product" entre el producto de sus magnitudes (longitudes).
+
+Crear un componente Vector, el cual pueda ser instanciado utilizando una coordenada en el plano 2D (x, y), y que describa las siguientes operaciones:
+
+Vector(x: int, y: int) // Constructor
+Magnitude() o Length() : double
+DotProduct(other : Vector) : double
+AngleBetween(other: Vector) : double
