@@ -1,0 +1,12 @@
+C:\Users\hguzm\MEGA\INTEC PROGRESS\10mo trimestre - ICS 2018\Tendencias\VyA\vector.3\bin\Debug\net5.0\vector.3.deps.json
+C:\Users\hguzm\MEGA\INTEC PROGRESS\10mo trimestre - ICS 2018\Tendencias\VyA\vector.3\bin\Debug\net5.0\vector.3.dll
+C:\Users\hguzm\MEGA\INTEC PROGRESS\10mo trimestre - ICS 2018\Tendencias\VyA\vector.3\bin\Debug\net5.0\ref\vector.3.dll
+C:\Users\hguzm\MEGA\INTEC PROGRESS\10mo trimestre - ICS 2018\Tendencias\VyA\vector.3\bin\Debug\net5.0\vector.3.pdb
+C:\Users\hguzm\MEGA\INTEC PROGRESS\10mo trimestre - ICS 2018\Tendencias\VyA\vector.3\obj\Debug\net5.0\vector.3.csproj.AssemblyReference.cache
+C:\Users\hguzm\MEGA\INTEC PROGRESS\10mo trimestre - ICS 2018\Tendencias\VyA\vector.3\obj\Debug\net5.0\vector.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hguzm\MEGA\INTEC PROGRESS\10mo trimestre - ICS 2018\Tendencias\VyA\vector.3\obj\Debug\net5.0\vector.3.AssemblyInfoInputs.cache
+C:\Users\hguzm\MEGA\INTEC PROGRESS\10mo trimestre - ICS 2018\Tendencias\VyA\vector.3\obj\Debug\net5.0\vector.3.AssemblyInfo.cs
+C:\Users\hguzm\MEGA\INTEC PROGRESS\10mo trimestre - ICS 2018\Tendencias\VyA\vector.3\obj\Debug\net5.0\vector.3.csproj.CoreCompileInputs.cache
+C:\Users\hguzm\MEGA\INTEC PROGRESS\10mo trimestre - ICS 2018\Tendencias\VyA\vector.3\obj\Debug\net5.0\vector.3.dll
+C:\Users\hguzm\MEGA\INTEC PROGRESS\10mo trimestre - ICS 2018\Tendencias\VyA\vector.3\obj\Debug\net5.0\ref\vector.3.dll
+C:\Users\hguzm\MEGA\INTEC PROGRESS\10mo trimestre - ICS 2018\Tendencias\VyA\vector.3\obj\Debug\net5.0\vector.3.pdb
