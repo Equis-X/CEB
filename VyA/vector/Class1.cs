@@ -14,9 +14,16 @@ namespace vector
         }
 
         // Functions \ Methods
+        // Magnitud
         public double Magnitude(){
             double temp = Math.Sqrt(Math.Pow(x,2)+Math.Pow(y,2));
             return temp;
+        }
+
+        // Producto Punto
+        public double DotProduct( Vector v){
+            double res = (v.x * x) + (v.y * y);
+            return res;
         }
     }
 }
