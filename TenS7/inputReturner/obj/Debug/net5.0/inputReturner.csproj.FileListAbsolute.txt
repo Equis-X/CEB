@@ -1,0 +1,12 @@
+C:\Users\hguzm\source\repos\TenS7\inputReturner\bin\Debug\net5.0\inputReturner.deps.json
+C:\Users\hguzm\source\repos\TenS7\inputReturner\bin\Debug\net5.0\inputReturner.dll
+C:\Users\hguzm\source\repos\TenS7\inputReturner\bin\Debug\net5.0\ref\inputReturner.dll
+C:\Users\hguzm\source\repos\TenS7\inputReturner\bin\Debug\net5.0\inputReturner.pdb
+C:\Users\hguzm\source\repos\TenS7\inputReturner\obj\Debug\net5.0\inputReturner.csproj.AssemblyReference.cache
+C:\Users\hguzm\source\repos\TenS7\inputReturner\obj\Debug\net5.0\inputReturner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hguzm\source\repos\TenS7\inputReturner\obj\Debug\net5.0\inputReturner.AssemblyInfoInputs.cache
+C:\Users\hguzm\source\repos\TenS7\inputReturner\obj\Debug\net5.0\inputReturner.AssemblyInfo.cs
+C:\Users\hguzm\source\repos\TenS7\inputReturner\obj\Debug\net5.0\inputReturner.csproj.CoreCompileInputs.cache
+C:\Users\hguzm\source\repos\TenS7\inputReturner\obj\Debug\net5.0\inputReturner.dll
+C:\Users\hguzm\source\repos\TenS7\inputReturner\obj\Debug\net5.0\ref\inputReturner.dll
+C:\Users\hguzm\source\repos\TenS7\inputReturner\obj\Debug\net5.0\inputReturner.pdb

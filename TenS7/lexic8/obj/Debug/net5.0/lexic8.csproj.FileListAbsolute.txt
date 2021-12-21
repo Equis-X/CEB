@@ -1,0 +1,12 @@
+C:\Users\hguzm\source\repos\TenS7\lexic8\bin\Debug\net5.0\lexic8.deps.json
+C:\Users\hguzm\source\repos\TenS7\lexic8\bin\Debug\net5.0\lexic8.dll
+C:\Users\hguzm\source\repos\TenS7\lexic8\bin\Debug\net5.0\ref\lexic8.dll
+C:\Users\hguzm\source\repos\TenS7\lexic8\bin\Debug\net5.0\lexic8.pdb
+C:\Users\hguzm\source\repos\TenS7\lexic8\obj\Debug\net5.0\lexic8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hguzm\source\repos\TenS7\lexic8\obj\Debug\net5.0\lexic8.AssemblyInfoInputs.cache
+C:\Users\hguzm\source\repos\TenS7\lexic8\obj\Debug\net5.0\lexic8.AssemblyInfo.cs
+C:\Users\hguzm\source\repos\TenS7\lexic8\obj\Debug\net5.0\lexic8.csproj.CoreCompileInputs.cache
+C:\Users\hguzm\source\repos\TenS7\lexic8\obj\Debug\net5.0\lexic8.dll
+C:\Users\hguzm\source\repos\TenS7\lexic8\obj\Debug\net5.0\ref\lexic8.dll
+C:\Users\hguzm\source\repos\TenS7\lexic8\obj\Debug\net5.0\lexic8.pdb
+C:\Users\hguzm\source\repos\TenS7\lexic8\obj\Debug\net5.0\lexic8.csproj.AssemblyReference.cache
