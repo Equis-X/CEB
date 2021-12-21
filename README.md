@@ -24,3 +24,7 @@ Vector(x: int, y: int) // Constructor
 Magnitude() o Length() : double
 DotProduct(other : Vector) : double
 AngleBetween(other: Vector) : double
+# Semana 8
+Kata contador lexico
+
+Kata datos de entrada de tabla de verdad
